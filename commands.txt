@@ -1,0 +1,2 @@
+pip install tensorflow pillow matplotlib
+pip install tensorboard
